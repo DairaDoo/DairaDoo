@@ -14,7 +14,6 @@
 
 ### 🌟 About Me
 
-```yaml
 Name: Dairan De Jesús
 Occupation: Full Stack Developer & Cloud Enthusiast
 Location: Puerto Rico
