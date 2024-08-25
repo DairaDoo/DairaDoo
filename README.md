@@ -12,7 +12,7 @@
 
 ---
 
-### 🌟 Summary
+### 🌟 About Me
 
 I'm Dairan S. De Jesús Mora, a passionate Software Engineer and Computer Science student at the InterAmerican University of Puerto Rico. With a strong foundation in various programming languages and technologies, I am dedicated to continuously learning and applying my skills in real-world projects. My experience as a Computer Tutor and Technical Support Assistant has honed my ability to solve complex problems and assist others in achieving their academic and professional goals. I'm particularly interested in full-stack development and cloud computing, and I enjoy working on projects that challenge me to grow both technically and creatively.
 
