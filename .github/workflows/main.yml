@@ -1,11 +1,12 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
@@ -29,6 +30,11 @@ jobs:
 
       - name: List files in dist
         run: ls -la dist
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
       - name: Show build status
         run: git status
