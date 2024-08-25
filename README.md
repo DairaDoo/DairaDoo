@@ -75,6 +75,32 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
 </p>
 
 ---
+### 🌐 Connect with Me
+
+<div align="center">
+    <a href="https://x.com/DairanDoo33?t=unDgVJJUpnRhCyeAlAodJw&s=08" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://github.com/DairaDoo" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://pr.linkedin.com/in/dairan-s-de-jes%C3%BAs-mora-367710257" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/dairandoo/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:dairandemora.work@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!" />
+</div>
+
 
 ### 🖼️ Profile Views
 
