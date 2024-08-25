@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
 
 ---
@@ -67,7 +67,7 @@ I'm Dairan S. De Jesús Mora, a passionate Software Engineer and Computer Scienc
 
 ### 🌐 Portfolio
 
-Explore my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairadoo.github.io/Portafolio.github-io)
+Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairadoo.github.io/Portafolio.github-io)
 
 ---
 
@@ -80,10 +80,12 @@ Explore my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairadoo
 </p>
 
 ---
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DairaDoo/DairaDoo/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 ---
@@ -103,8 +105,8 @@ Explore my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairadoo
     <a href="https://www.instagram.com/dairandoo/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://open.spotify.com/user/00b8t1l8r3sg5tac06c5kmb4b?si=efc773b4d39a4688" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    <a href="mailto:dairandemora.work@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
 
