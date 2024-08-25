@@ -40,12 +40,11 @@ I'm Dairan S. De Jesús Mora, a passionate Software Engineer and Computer Scienc
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  - **Databases**: 
+- **Databases**: 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) 
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
 
 - **Soft Skills**: 
   Leadership, Teamwork, Problem Solving, Organized, Responsible, Quick Learner
@@ -64,7 +63,6 @@ I'm Dairan S. De Jesús Mora, a passionate Software Engineer and Computer Scienc
   ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=terminal&logoColor=white) 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-
 ---
 
 ### 🌐 Portfolio
@@ -82,6 +80,7 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
 </p>
 
 ---
+
 ### 🌐 Connect with Me
 
 <div align="center">
@@ -100,18 +99,4 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
     <a href="mailto:dairandemora.work@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-</div>
-
----
-
-### 🖼️ Profile Views
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=DairaDoo&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!" />
 </div>
