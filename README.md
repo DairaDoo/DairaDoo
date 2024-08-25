@@ -20,11 +20,37 @@ I'm Dairan S. De Jesús Mora, a dedicated Computer Science student at the Intera
 
 ### 🛠️ Training and Skills
 
-- **Programming Languages**: Python, Java, C++, C#, JavaScript, PHP
-- **Technologies/Frameworks**: Bootstrap, Tailwind, NestJs, NextJS, React, JWT, Prisma, HTML, CSS
-- **Soft Skills**: Leadership, Teamwork, Problem Solving, Organized, Responsible, Quick Learner
-- **Languages**: Spanish and English
-- **Others**: GitHub, Git, DevOps, Scrum, Figma, Linux, CLI, AWS
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSONWebTokens" alt="JWT" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/DevOps-0080FF?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+    <img src="https://img.shields.io/badge/Scrum-00ADD8?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=command-line-interface&logoColor=white" alt="CLI" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</div>
 
 ---
 
@@ -90,12 +116,6 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DairaDoo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://github.com/DairaDoo/DairaDoo/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
 ---
 
 ### 🖼️ Profile Views
@@ -107,5 +127,5 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect!" />
 </div>
