@@ -97,11 +97,6 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
 
 ---
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!" />
-</div>
-
-
 ### 🖼️ Profile Views
 
 <div align="center">
