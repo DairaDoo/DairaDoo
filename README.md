@@ -14,91 +14,17 @@
 
 ### 🌟 Summary
 
-I'm Dairan S. De Jesús Mora, a dedicated Computer Science student at the Interamerican University of Puerto Rico, Arecibo, with a passion for teaching, learning, and technology. I have hands-on experience as a Student Support Technician and Computer Tutor, where I honed my technical skills and helped others achieve their academic goals. I hold multiple certifications, including Scrum Foundation Professional Certificate and Professional Fundamentals of Software Engineering, and have successfully completed a rigorous Full Stack Development bootcamp. My commitment to continuous learning and proficiency in modern development tools and practices drives my focus on contributing meaningfully to technology and education.
+I'm Dairan S. De Jesús Mora, a passionate Software Engineer and Computer Science student at the InterAmerican University of Puerto Rico. With a strong foundation in various programming languages and technologies, I am dedicated to continuously learning and applying my skills in real-world projects. My experience as a Computer Tutor and Technical Support Assistant has honed my ability to solve complex problems and assist others in achieving their academic and professional goals. I'm particularly interested in full-stack development and cloud computing, and I enjoy working on projects that challenge me to grow both technically and creatively.
 
 ---
 
 ### 🛠️ Training and Skills
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</div>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSONWebTokens" alt="JWT" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/DevOps-0080FF?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
-    <img src="https://img.shields.io/badge/Scrum-00ADD8?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=command-line-interface&logoColor=white" alt="CLI" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</div>
-
----
-
-### 🎓 Education
-
-- **Bachelor’s Degree in Computer Science**  
-  *Interamerican University of Puerto Rico, Arecibo Campus*  
-  August 2021 – May 2025
-
-- **Certification in Full Stack Development**  
-  *Forte Global - Puerto Rico*  
-  November 2023 – May 2024
-
----
-
-### 💼 Professional Experience
-
-**Computer Tutor**  
-*Interamerican University of Puerto Rico, Arecibo Campus*  
-September 2023 – May 2024  
-- Provided personalized tutoring to enhance students' skills in computer science.
-- Fostered effective learning environments to support student success.
-- Used innovative teaching methods to improve engagement and understanding.
-
-**Technical Support Assistant**  
-*Interamerican University of Puerto Rico, Arecibo Campus*  
-February 2023 – June 2023  
-- Offered technical support in computer management, maintenance, and updates.
-- Assisted students with various technical issues, including printing tasks.
-- Contributed to the development of new IT support policies to increase departmental effectiveness.
-
-**Bootcamp in Full Stack Development**  
-*Forte Global - Puerto Rico, Remote*  
-November 2023 – May 2024  
-- Successfully completed a selective Full Stack Development bootcamp.
-- Collaboratively developed an e-commerce project with a team, incorporating unit testing and hosting solutions.
-- Employed Agile methodologies, specifically Scrum, for effective team communication and project management.
-
----
-
-### 🏆 Certifications
-
-- **Scrum Foundation Professional Certificate SPFC** – December 2023
-- **Professional Fundamentals of Software Engineering (Microsoft and LinkedIn)** – September 2, 2023
-- **The Complete Java Certification Course** – July 25, 2023
-- **REST APIs with Flask and Python in 2024** – June 14, 2024
-- **Full Stack Development Junior (Forte Global Puerto Rico, Digital School Colombia)** – June 21, 2024
-- **AWS Cloud Practitioner Essentials** – July 27, 2024
+- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- **Technologies/Frameworks**: ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Soft Skills**: Leadership, Teamwork, Problem Solving, Organized, Responsible, Quick Learner
+- **Languages**: ![Spanish](https://img.shields.io/badge/Spanish-E34F26?style=flat-square&logo=language&logoColor=white) ![English](https://img.shields.io/badge/English-007396?style=flat-square&logo=language&logoColor=white)
+- **Others**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-0085CA?style=flat-square&logo=devops&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -127,5 +53,5 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!" />
 </div>
