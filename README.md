@@ -74,9 +74,9 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
 ### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DairaDoo&show_icons=true&theme=Highcontrast" alt="DairaDoo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DairaDoo&show_icons=true&theme=Dark" alt="DairaDoo's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DairaDoo&theme=Highcontrast" alt="DairaDoo's GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DairaDoo&layout=compact&theme=Highcontrast" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DairaDoo&layout=compact&theme=Dark" alt="Top Languages" />
 </p>
 
 ---
