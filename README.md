@@ -54,7 +54,7 @@ I am a Computer Science student at the Interamerican University of Puerto Rico, 
   ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
   ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CE2C2E?style=flat-square&logo=python&logoColor=white)
 
-  **Cloud & DevOps**:  
+- **Cloud & DevOps**:  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
