@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DairaDoo.DairaDoo" />
+<img align="right" src="https://cdn2.iconfinder.com/data/icons/security-guards-aesthetics-vol-2/256/Visitor_Pass-512.png" width="70px" height="70px"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dairan+S.+De+Jesús+Mora!;" />
