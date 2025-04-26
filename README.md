@@ -1,20 +1,20 @@
-<img align="right" src="https://cdn2.iconfinder.com/data/icons/security-guards-aesthetics-vol-2/256/Visitor_Pass-512.png" width="70px" height="70px"/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dairan+S.+De+Jesús+Mora!;" />
-</h1>
-
----
-
+<!-- Hero Banner -->
+<hr style="height:4px; background: linear-gradient(to right, #6A5ACD, #1E90FF); border:0;">
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+  <img align="right" src="https://res.cloudinary.com/dcldzjq9s/image/upload/v1745626006/ovcv8fybrclflbi7gyki.png" width="80px" height="80px"/>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dairan+S.+De+Jesús+Mora!;" alt="Typing Intro" />
+  </h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300" alt="Coding GIF"/>
 </div>
+<hr style="height:4px; background: linear-gradient(to right, #6A5ACD, #1E90FF); border:0;">
 
----
-
-### 🌟 About Me
+<!-- About Me (Collapsible) -->
+<details>
+  <summary>🌟 About Me</summary>
 
 I am a Computer Science student at the Interamerican University of Puerto Rico, Arecibo, with strong experience as a Student Support Technician and Computer Tutor. Passionate about technology, teaching, and learning, I have developed solid technical skills while helping others achieve their academic goals. I hold multiple certifications, including the Scrum Foundation Professional Certificate and Professional Fundamentals of Software Engineering, and have completed a rigorous Full Stack Development bootcamp. Additionally, I have hands-on experience with cloud computing, working with SaaS, PaaS, and IaaS models, as well as configuring AWS services and managing cloud infrastructure at a foundational level. I have a strong grasp of key cloud concepts and enjoy applying them in real-world scenarios. Committed to continuous learning and innovation, I am eager to contribute my skills and grow in a dynamic environment.
+</details>
 
 ---
 
@@ -85,22 +85,18 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
 
 ---
 
-### 📊 GitHub Contributions
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DairaDoo&show_icons=true&theme=Onedark" alt="DairaDoo's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DairaDoo&theme=Highcontrast" alt="DairaDoo's GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DairaDoo&layout=compact&theme=Onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DairaDoo&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DairaDoo&theme=highcontrast&hide_border=true" alt="Streak Stats"/>
 </p>
 
----
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DairaDoo/DairaDoo/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<details>
+  <summary>🐍 My Contribution Snake</summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/DairaDoo/DairaDoo/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</details>
 
 ---
 
@@ -124,12 +120,9 @@ Check out my portfolio: [dairadoo.github.io/Portafolio.github-io](https://dairad
     </a>
 </div>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!" />
-</div>
+---
 
---- 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/DairaDoo/count.svg" />
+  Visitor count 🔥<br/>
+  <img src="https://profile-counter.glitch.me/DairaDoo/count.svg" alt="Visitor Count"/>
 </p>
